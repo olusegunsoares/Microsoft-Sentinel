@@ -1,0 +1,2 @@
+To set up a Data Connector in Microsoft Sentinel, go to Sentinel > Data Connectors and install the required connector via the Content Hub (e.g., Windows Security Events). Then, navigate to Data Connectors, where two connectors will appear, but none will be in the connected state.
+Next, connect the Windows Security Events via AMA connector to the previously deployed Windows Server VM. Once connected, the status should update to Enabled, confirming successful integration.
