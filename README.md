@@ -1,6 +1,6 @@
-# Microsoft Sentinel Security Operations – Capstone Project
+# Microsoft Sentinel Security Operations
 
-This repository documents the implementation of advanced **security operations and monitoring in Microsoft Sentinel**, completed as part of my Post Graduate Program in Cybersecurity at UT Austin, McCombs School of Business.
+This project demonstrates how I implemented end-to-end security operations using Microsoft Sentinel to protect cloud resources and respond to threats in real time. It covers deploying Azure infrastructure, integrating data connectors, writing KQL queries for detection, managing incidents, and enriching analysis with threat intelligence. The result is a hands-on showcase of my ability to design, configure, and operate a modern SIEM for proactive cloud security monitoring and defense.
 
 ## 📌 Project Overview
 The project demonstrates how to build and manage a **cloud-based SIEM** solution using Microsoft Sentinel. It covers deployment, log collection, incident detection, automation, threat intelligence integration, and proactive threat hunting.
@@ -38,6 +38,7 @@ This project reinforced my hands-on expertise in:
 
 ---
 
-👤 **Author:** Olusegun Soares  
+👤 **Author:** Olusegun Leo Soares  
 📅 **Date:** April 2025  
 🎓 **Program:** Post Graduate Program in Cybersecurity, UT Austin (McCombs School of Business)  
+[LinkedIn Profile](https://www.linkedin.com/in/olusegun-soares-59862582/) | [GitHub Profile](https://github.com/olusegunsoares)
